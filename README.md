@@ -1,6 +1,6 @@
 # Vue Alert
 
-Vue.js alert/modal plugin for vue/vue 3
+Vue.js alert plugin for vue 3
 
 ## Installation
 

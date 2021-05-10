@@ -1,7 +1,7 @@
 {
-  "name": "@moon/vue-alert",
+  "name": "@LeahWLC/moon-vue-alert",
   "version": "1.0.0",
-  "description": "mini alert module for vue/vue3",
+  "description": "mini alert module for vue3",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/LeahWLC/moon-vue-alert/issues"
   },
-  "homepage": "https://github.com/LeahWLC/moon-vue-alert#readme"
+  "homepage": "https://github.com/LeahWLC/moon-vue-alert#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
