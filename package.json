@@ -1,0 +1,26 @@
+{
+  "name": "@moon/vue-alert",
+  "version": "1.0.0",
+  "description": "mini alert module for vue/vue3",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeahWLC/moon-vue-alert.git"
+  },
+  "keywords": [
+    "alert",
+    "modal",
+    "vue",
+    "vue3",
+    "plugin"
+  ],
+  "author": "LeahWLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeahWLC/moon-vue-alert/issues"
+  },
+  "homepage": "https://github.com/LeahWLC/moon-vue-alert#readme"
+}
